@@ -1,13 +1,5 @@
 # Chinjung
-### Fullstack Developer | FinTech & AI Enthusiast
-
-Based in Thailand, I am a software developer with a strong focus on building scalable web applications and financial data analysis tools. My work bridges the gap between full-stack engineering and data science, with a particular interest in US stock markets and AI-driven investment strategies.
-
-- 🔭 **Currently working on:** [FellowLIS](https://github.com/FellowLIS/)
-- 💼 **Specialization:** Web Application Development, Financial Modeling, and Data Analysis.
-- 🎯 **Interests:** Long-term Value Investing, Space Industry Technologies, and Green Tech.
-
----
+### Fullstack Developer
 
 ### 🛠 Technical Skills
 
@@ -41,30 +33,6 @@ Based in Thailand, I am a software developer with a strong focus on building sca
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 📊 **US Stock Analysis & Valuation System**
-*Full-stack application for analyzing US market trends.*
-* **Tech Stack:** Next.js, FastAPI, Python (AI Models).
-* **Key Features:** Implements AI-driven trend analysis, stock valuation models, and long-term investment screening.
-* **Focus:** Designed for long-term horizon investing (>10 years) and identifying correction entry points.
-
-#### 💰 **FinTax System**
-*Dividend tax management for Thai investors.*
-* **Problem:** Addresses the complexity of managing dividend taxes in the Thai stock market.
-* **Solution:** A dedicated platform to help investors calculate and optimize their tax returns effectively.
-
-#### ♻️ **Waste2Wealth**
-*Sustainable business model concept.*
-* **Concept:** A platform incentivizing garbage separation through a rewards point system exchangeable for discount coupons.
-
-#### 📦 **Inventory Management System**
-*Internship Project.*
-* **Scope:** Developed a comprehensive stock management system for tracking testing equipment fluids.
-* **Tech Stack:** Full-stack implementation ensuring real-time tracking and reporting.
 
 ---
 
