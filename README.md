@@ -6,6 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=480&lines=Building+web+apps+end-to-end;Python+%7C+TypeScript+%7C+Next.js;Always+learning+something+new" alt="typing intro" />
 </p>
 
+<p align="center">
+  <a href="https://chinjuku-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-chinjuku--portfolio.vercel.app-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://chinjuku-portfolio.vercel.app/" target="_blank">
+    <img src="https://image.thum.io/get/width/1200/crop/700/https://chinjuku-portfolio.vercel.app/" alt="Portfolio preview" width="85%" style="border-radius:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://chinjuku-portfolio.vercel.app/"><b>chinjuku-portfolio.vercel.app</b></a>
+</p>
+
 ---
 
 ## 🛠 Technical Skills
